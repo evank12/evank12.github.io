@@ -105,3 +105,27 @@ Second One
 Third
 
 _________
+
+
+
+
+
+
+
+<html>
+
+<head>
+    <style>
+        .left-align {
+            text-align: left;
+        }
+        </style>
+</head>
+
+<body>
+    <p class="left-align">
+      This text is left-aligned using the text-align property.
+      </p>
+      </body>
+
+</html>
