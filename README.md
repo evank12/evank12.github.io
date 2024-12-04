@@ -105,21 +105,6 @@ Second One
 Third
 
 _________
-
-
-
-
-
-
-
-<html>
-
-<head>
-    <style>
-        .left-align {
-            text-align: left;
-        }
-        </style>
 </head>
 
 <body>
